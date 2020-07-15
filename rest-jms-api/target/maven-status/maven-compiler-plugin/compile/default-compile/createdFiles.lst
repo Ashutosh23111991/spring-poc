@@ -1,0 +1,9 @@
+com\poc\controller\PersonController.class
+com\poc\service\PersonService.class
+com\poc\batch\config\DatabaseCursorJobConfig$1.class
+com\poc\jms\JMSConfiguration.class
+com\poc\jms\model\Person.class
+com\poc\rowmapper\PersonRowMapper.class
+com\poc\jms\receiver\MessageReceiver.class
+com\poc\batch\config\DatabaseCursorJobConfig.class
+com\poc\MessageProducerApplication.class
