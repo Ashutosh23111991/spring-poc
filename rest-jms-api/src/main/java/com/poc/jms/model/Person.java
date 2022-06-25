@@ -8,6 +8,7 @@ public class Person {
 	private String lastName;
 	private String email;
 	private Date joinedDate;
+	private long mobileNumber;
 	public int getEmpId() {
 		return empId;
 	}
